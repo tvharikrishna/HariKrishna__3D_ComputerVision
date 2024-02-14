@@ -9,33 +9,16 @@
 
 # 🔻 State-of-the-Art (SOTA) Computer Vision Techniques
 
-# 🔻 State-of-the-Art (SOTA) Computer Vision Techniques
-
-| Stereo Vision         | Depth Estimation          | Visual Odometry         | Augmented Reality       | Optical Flow Estimation   |
+|    Stereo Vision      |      Depth Estimation     |     Visual Odometry     |    Augmented Reality    |        Optical Flow       |
 |-----------------------|---------------------------|-------------------------|-------------------------|---------------------------|
-| Image Segmentation    | Camera Pose Estimation    | Multi-View Stereo       | SLAM (Simultaneous Localization and Mapping)    | 3D Object Detection       |
-| 3D Reconstruction     | Structure from Motion     | Scene Understanding     | Point Clouds            |                           |
-
-
-# 🔻 State-of-the-Art (SOTA) Computer Vision Techniques
-
-Stereo Vision, 3D Reconstruction, Structure from Motion, Scene Understanding, Point Clouds, Depth Estimation, Visual Odometry, Augmented Reality, Optical Flow Estimation, Image Segmentation, Camera Pose Estimation, Multi-View Stereo, SLAM (Simultaneous Localization and Mapping), 3D Object Detection
-
+|  Vision Segmentation  |  Camera Pose Estimation   |    Multi-View Stereo    |       Visual SLAM       |    3D Object Detection    |
+|   3D Reconstruction   |  Structure from Motion    |   Scene Understanding   |      Point Clouds       |     Camera Calibration    |
 
 # 🔻 Tools & Technologies
-The following tools will be used in the making of these projects.
+The following tools will be utilized in the development of these projects.
 
-  <!-- Ubuntu Badge -->
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
-  <!-- Linux Badge -->
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
-  <!-- VS Code Badge -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
-  <!-- ROS Badge -->
-  <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
-  <!-- Python Badge -->
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
-  <!-- Matplotlib Badge -->
-  <img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Matplotlib" style="height: 25px;"/> &nbsp;
-
-  
+ADD BADGES FROM WEBSITE
+ADD BADGES FROM WEBSITE
+ADD BADGES FROM WEBSITE
+ADD BADGES FROM WEBSITE
+ADD BADGES FROM WEBSITE
