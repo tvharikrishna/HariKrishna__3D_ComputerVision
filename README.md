@@ -11,7 +11,7 @@
 
 |    Stereo Vision      |      Depth Estimation     |     Visual Odometry     |    Augmented Reality    |        Optical Flow       |
 |-----------------------|---------------------------|-------------------------|-------------------------|---------------------------|
-|  Vision Segmentation  |  Camera Pose Estimation   |    Multi-View Stereo    |       Visual SLAM       |    3D Object Detection    |
+|  Segmentation  |  Pose Estimation   |    Multi-View Stereo    |       Visual SLAM       |    3D Object Detection    |
 |   3D Reconstruction   |  Structure from Motion    |   Scene Understanding   |      Point Clouds       |     Camera Calibration    |
 
 # 🔻Tools & Technologies
