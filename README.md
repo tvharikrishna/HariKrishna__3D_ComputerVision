@@ -9,10 +9,12 @@
 
 # 🔻State-of-the-Art (SOTA) Computer Vision Techniques
 
-|    Stereo Vision      |      Depth Estimation     |     Visual Odometry     |    Augmented Reality    |        Optical Flow       |
-|-----------------------|---------------------------|-------------------------|-------------------------|---------------------------|
-|  Segmentation  |  Pose Estimation   |    Multi-View Stereo    |       Visual SLAM       |    3D Object Detection    |
-|   3D Reconstruction   |  Structure from Motion    |   Scene Understanding   |      Point Clouds       |     Camera Calibration    |
+|    Stereo Vision     |   Depth Estimation   |   Visual Odometry   |  Augmented Reality  |
+|----------------------|----------------------|---------------------|---------------------|
+| 3D Reconstruction         | 3D Flow Scene      | Structure from Motion    | 3D SLAM         |
+| Vision Segmentation    | Pose Estimation | 3D Scene Understanding | Visual SLAM        |
+| Optical Flow Estimation         | Multi-View Stereo  | Stereo Camera Calibration  | Point Clouds      |
+
 
 # 🔻Tools & Technologies
 The following tools will be utilized in the development of these projects.
@@ -22,4 +24,3 @@ The following tools will be utilized in the development of these projects.
 <p align="center">
     <img src="readme_data/funny_endquote_CV.png" alt="Alt text for your image" width="1500"/>
 </p>
-
