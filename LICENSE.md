@@ -26,10 +26,8 @@
 ⭐ `𝗛𝗞 𝗟𝗼𝗴𝗼` : `𝗦𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗲𝗱` <br> Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights.
 
 
-| Category                    | License                        | Limitations                                                                                                                                                                             |
-|-----------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Code**   | GNU-GPL v3.0                 | Use, modify, and share as per its terms.                                                                                                                                                |
-| **Assets**       | Copyright Protected | All non-code elements such as documentation, images (including documentation footers), image assets, and files are copyrighted by the owner and protected under copyright laws.                |
-| **HK Logo**                 | Copyright Protected | Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action for infringement on social media. |
-
-
+| SY  | Category  | License         | Limitations |
+| --- | --------- | ---------------------- | ----------- |
+| ✅  | **Code**      | GNU-GPL v3.0    | Use, modify, and share as per its terms. |
+| ❌  | **Assets**    | Copyrighted ©    | All non-code elements such as documentation, images (including documentation footers), image assets, and files are copyrighted by the owner and protected under copyright laws. |
+| ❌  | **HK Logo**   | Copyrighted ©    | Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action for infringement on social media. |
