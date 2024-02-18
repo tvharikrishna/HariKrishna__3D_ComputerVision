@@ -1,45 +1,8 @@
-**Copyright © 2024 Venkata Harikrishna, Talapala**  
-**Copyright © 2024 tvharikrishna**
-
 <p align="right">
-  <img src="readme_data/HK_Official_Logo.png" width="100" alt="HK Official Logo"/>
+  <img src="readme_data/hk_license.png" width="2222" alt="HK Official Logo"/>
 </p>
 
-**All Rights Reserved.**
-
 ---
-
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div>
-    <strong>Copyright © 2024 Venkata Harikrishna, Talapala</strong><br>
-    <strong>Copyright © 2024 tvharikrishna</strong><br>
-    <strong>All Rights Reserved.</strong>
-  </div>
-  <div>
-    <img src="readme_data/HK_Official_Logo.png" width="100" alt="HK Official Logo" style="align-self: flex-start;"/>
-  </div>
-</div>
-
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div>
-    <strong>Copyright © 2024 Venkata Harikrishna, Talapala</strong><br>
-    <strong>Copyright © 2024 tvharikrishna</strong><br>
-    <strong>All Rights Reserved.</strong>
-  </div>
-  <div>
-    <img src="readme_data/HK_Official_Logo.png" width="100" alt="HK Official Logo" style="align-self: flex-start;"/>
-  </div>
-</div>
-
-
-
----
-
-
-
-
 
 **Permissions**:
 - ✅ Only source code is licensed under **GNU GPL v3.0**; use, modify, and share according to its terms.
