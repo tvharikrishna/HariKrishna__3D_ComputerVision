@@ -1,3 +1,4 @@
+<!-- README: HariKrishna_ComputerVision-->
 <p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
 <p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
 
@@ -9,21 +10,18 @@
 
 # 🔻State-of-the-Art (SOTA) Computer Vision Techniques
 
-|    Stereo Vision      |      Depth Estimation     |     Visual Odometry     |    Augmented Reality    |        Optical Flow       |
-|-----------------------|---------------------------|-------------------------|-------------------------|---------------------------|
-|  Vision Segmentation  |  Camera Pose Estimation   |    Multi-View Stereo    |       Visual SLAM       |    3D Object Detection    |
-|   3D Reconstruction   |  Structure from Motion    |   Scene Understanding   |      Point Clouds       |     Camera Calibration    |
+|    Stereo Vision     |   Depth Estimation   |   Visual Odometry   |  Augmented Reality  |
+|----------------------|----------------------|---------------------|---------------------|
+| 3D Reconstruction         | 3D Flow Scene      | Structure from Motion    | 3D SLAM         |
+| Vision Segmentation    | Pose Estimation | 3D Scene Understanding | Visual SLAM        |
+| Optical Flow Estimation         | Multi-View Stereo  | Stereo Camera Calibration  | Point Clouds      |
+
 
 # 🔻Tools & Technologies
 The following tools will be utilized in the development of these projects.
 
-
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/C++-004482.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="C++" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Pillow-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Pillow" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Open3D-4B8BBE.svg?&style=flat-square&logo=python&logoColor=white" alt="Open3D" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/PCL-568203.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="PCL" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Cloud%20Compare-A42E2B.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="Cloud Compare" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Mesh-000000.svg?&style=flat-square&logo=blender&logoColor=white" alt="Mesh" style="height: 22px;"/>
-
-<hr> <br>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/C++-004482.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="C++" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Pillow-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Pillow" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Open3D-4B8BBE.svg?&style=flat-square&logo=python&logoColor=white" alt="Open3D" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/PCL-568203.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="PCL" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Cloud%20Compare-A42E2B.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="Cloud Compare" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Mesh-000000.svg?&style=flat-square&logo=blender&logoColor=white" alt="Mesh" style="height: 22px;"/> <hr> <br>
 
 <p align="center">
     <img src="readme_data/funny_endquote_CV.png" alt="Alt text for your image" width="1500"/>
 </p>
-
-
