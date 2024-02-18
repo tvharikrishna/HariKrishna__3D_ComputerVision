@@ -15,19 +15,31 @@
 - ❌ No use of trademarks, specifically the HK Logo.
 - ❌ No liability or warranty is provided for any elements.
 
----
+<br>
 
-**Clarification**:
-
-⭐ **Source Code Licensing**: Licensed under `𝗚𝗡𝗨-𝗚𝗣𝗟 𝘃𝟯.𝟬 𝗟𝗶𝗰𝗲𝗻𝘀𝗲` <br> Use, modify, and share as per its terms.
-
-⭐ **Non-Code Elements Licensing**: `𝗦𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗲𝗱` <br> All non-code elements in this repository, such as documentation, images, documentation footer images, assets, and files, are copyrighted by the owner and protected under copyright laws.
-
-⭐ `𝗛𝗞 𝗟𝗼𝗴𝗼` : `𝗦𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗲𝗱` <br> Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights.
-
-
-| SY  | Category  | License         | Limitations |
-| --- | --------- | ---------------------- | ----------- |
-| ✅  | **Code**      | GNU-GPL v3.0    | Use, modify, and share as per its terms. |
-| ❌  | **Assets**    | Copyrighted ©    | All non-code elements such as documentation, images (including documentation footers), image assets, and files are copyrighted by the owner and protected under copyright laws. |
-| ❌  | **HK Logo**   | Copyrighted ©    | Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action for infringement on social media. |
+<table>
+  <tr>
+    <th>SY</th>
+    <th>Category</th>
+    <th width="300px">License</th>
+    <th>Limitations</th>
+  </tr>
+  <tr>
+    <td>✅</td>
+    <td><strong>Code</strong></td>
+    <td>GNU-GPL v3.0</td>
+    <td>Use, modify, and share as per its terms.</td>
+  </tr>
+  <tr>
+    <td>❌</td>
+    <td><strong>Assets</strong></td>
+    <td>Copyrighted</td>
+    <td> All non-code components, including documentation, associated imagery, footer graphics, visual assets, and miscellaneous files, are the exclusive safeguarded by copyright statutes.</td>
+  </tr>
+  <tr>
+    <td>❌</td>
+    <td><strong>HK Logo</strong></td>
+    <td>Copyrighted</td>
+    <td>Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action for infringement on all social media platforms.</td>
+  </tr>
+</table>
