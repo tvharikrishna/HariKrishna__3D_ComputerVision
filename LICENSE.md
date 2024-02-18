@@ -33,13 +33,13 @@
   <tr>
     <td>❌</td>
     <td><strong>Assets</strong></td>
-    <td>Copyrighted</td>
+    <td>Copyrighted ©</td>
     <td> All non-code components, including documentation, associated imagery, footer graphics, visual assets, and miscellaneous files, are the exclusive safeguarded by copyright statutes.</td>
   </tr>
   <tr>
     <td>❌</td>
     <td><strong>HK Logo</strong></td>
-    <td>Copyrighted</td>
+    <td>Copyrighted ©</td>
     <td>Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action for infringement on all social media platforms.</td>
   </tr>
 </table>
