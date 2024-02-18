@@ -28,6 +28,8 @@
 
 | Category                    | License                        | Limitations                                                                                                                                                                             |
 |-----------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Source Code Licensing**   | GNU-GPL v3.0                 | Use, modify, and share as per its terms.                                                                                                                                                |
-| **Non-Code Elements**       | Strictly Copyright Protected | All non-code elements such as documentation, images (including documentation footers), assets, and files are copyrighted by the owner and protected under copyright laws.                |
-| **HK Logo**                 | `Strictly Copyright Protected` | Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action for infringement on social media. |
+| **Code**   | GNU-GPL v3.0                 | Use, modify, and share as per its terms.                                                                                                                                                |
+| **Assets**       | Copyright Protected | All non-code elements such as documentation, images (including documentation footers), image assets, and files are copyrighted by the owner and protected under copyright laws.                |
+| **HK Logo**                 | Copyright Protected | Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action for infringement on social media. |
+
+
