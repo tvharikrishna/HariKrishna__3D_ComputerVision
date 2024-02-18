@@ -21,7 +21,7 @@
   <tr>
     <th>SY</th>
     <th>Category</th>
-    <th width="300px">License</th>
+    <th width="150px">License</th>
     <th>Limitations</th>
   </tr>
   <tr>
