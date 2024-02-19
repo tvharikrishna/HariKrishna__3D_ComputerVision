@@ -6,17 +6,6 @@
     <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
 </p> <br> <br>
 
-
-
-
-
-
-
-
-
-
-
-
 <!------ WHAT ------>
 <p align="center">
     <img src="readme_data/what.png" alt="Why we chose this project" width="600"/>
@@ -32,21 +21,6 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
     <img src="https://img.shields.io/badge/My Project Video-Depth Estimation using StereoSGBM-blue" alt="Video" width="450" height="30"/>
   </a>
 </p> <br> <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!------ WHY ------>
 <p align="center">
@@ -66,19 +40,11 @@ The project utilizes the StereoSGBM algorithm to enhance depth estimation, provi
 ▸ <strong>Comprehensive Coverage:</strong> The algorithm effectively handles occlusions and textureless areas, providing a cohesive depth map. <br><br>
 </p>
 
+<p align="center">
+    <img src="readme_data/blockdiagram.png" alt="Why we chose this project" width="1500"/>
+</p>
+
 <br> <br> <br>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!------ HOW ------>
 <p align="center">
@@ -101,67 +67,77 @@ The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to
   <img src="https://img.shields.io/badge/OpenCV-%23white.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/>
 </p> <br>
 
-<!------ Deployment and Testing ------>
-<h2 align="left">💠 Deployment and Testing </h2>
+<!------ Deployment------>
+<h2 align="left">💠 Deployment</h2>
 <p style="text-align: justify;">
-▸ Deployment is streamlined through a Python script, enabling easy integration with various operating systems including Windows. The script processes stereo image pairs to generate depth maps, which can be visualized or further analyzed. <br><br>
-▸ Testing involves running the script on a diverse set of stereo images to ensure accurate depth estimation across different scenarios. This includes images with varying levels of complexity, from simple objects to intricate scenes, verifying the algorithm's reliability and performance.
+▸ Initialization of camera parameters, such as focal length and baseline, is crucial for achieving accurate depth estimation, setting the foundation for precise 3D scene reconstruction.<br><br>
+▸ Configuration of StereoSGBM and WLS filter parameters is tailored to enhance disparity computation, with the WLS filter significantly improving the quality by reducing noise and preserving edge details, thus ensuring a more accurate depth perception.<br><br>
+▸ Preprocessing involves converting input images to grayscale, enhancing the StereoSGBM algorithm's ability to compute disparities effectively, leading to more reliable depth estimation results.<br><br>
+▸ Computation of the disparity map using StereoSGBM, followed by refinement with the WLS filter, showcases the algorithm's ability to generate high-quality depth maps. This process benefits from WLS filtering by achieving clearer, more detailed disparity maps, crucial for nuanced depth analysis.<br><br>
+▸ Depth map extraction and normalization are performed using camera parameters, allowing for the visualization of the scene's 3D structure in a way that highlights depth variations clearly and accurately.<br><br>
+▸ The option to save and display processed images facilitates the direct examination of the algorithm's output, providing a visual confirmation of the disparity and depth map quality, essential for validating the depth estimation process.
 </p> <br>
 
+<!------ Testing------>
+<h2 align="left">💠 Testing</h2>
+<p style="text-align: justify;">
+▸ The testing phase involves running the script on a set of stereo images to evaluate the accuracy of depth estimation across various scenes. This includes examining the quality of the disparity and depth maps for consistency and detail.<br>
+▸ Performance and robustness are assessed by applying the algorithm to images with varying levels of complexity and texture, ensuring that the depth estimation is reliable under different conditions.
+</p> <br>
 
-
-## Input Image (data)
-
-<table>
+<h2 align="left">💠 Input Image (data)</h2>
+<table align="center">
   <tr>
     <td align="center">
-      <img src="data/img1.png" alt="Left Stereo Image" width="500"/><br />
+      <img src="readme_data/img1.png" alt="Left Stereo Image" width="500"/><br />
       <img src="https://img.shields.io/badge/-Left%20Image-%23D00000?style=for-the-badge" alt="Left Image Badge"/>
     </td>
     <td align="center">
-      <img src="data/img2.png" alt="Right Stereo Image" width="500"/><br />
+      <img src="readme_data/img2.png" alt="Right Stereo Image" width="500"/><br />
       <img src="https://img.shields.io/badge/-Right%20Image-%23D00000?style=for-the-badge" alt="Right Image Badge"/>
     </td>
   </tr>
 </table>
 
-
----------------------------------------------
-
-## Output Image (generated_images)
-
-<table>
+<h2 align="left">💠 Output Image (generated_images)</h2>
+<table align="center">
   <tr>
     <td align="center">
-      <img src="generated_images/Disparity_Map.png" alt="Disparity Map" width="500"/><br />
+      <img src="readme_data/disparitymap.png" alt="Disparity Map" width="500"/><br />
       <img src="https://img.shields.io/badge/-Disparity_Map-%23000000?style=for-the-badge" alt="Disparity Map Badge"/>
     </td>
     <td align="center">
-      <img src="generated_images/Depth_Map.png" alt="Depth Map" width="500"/><br />
+      <img src="readme_data/depthmap.png" alt="Depth Map" width="500"/><br />
       <img src="https://img.shields.io/badge/-Depth_Map-%23000000?style=for-the-badge" alt="Depth Map Badge"/>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2"> <!-- This will span the cell across two columns for the single wide image -->
-      <img src="generated_images/Depth_Map_Color.png" alt="Depth Map Color" width="500"/><br />
+    <td align="center" colspan="2">
+      <img src="readme_data/depthmap_color.png" alt="Depth Map Color" width="500"/><br />
       <img src="https://img.shields.io/badge/-Depth_Map_Color-%23000000?style=for-the-badge" alt="Depth Map Color Badge"/>
     </td>
   </tr>
 </table>
 
+<!------ HOW TO USE MY CODE ------>
+<h2 align="left">💠 How to use my code?</h2>
+<p>The provided Python script leverages the StereoSGBM algorithm for advanced depth estimation from stereo images. To effectively utilize this code, follow these steps:</p>
+<ol>
+  <li>Ensure OpenCV and NumPy are installed in your Python environment for image processing and numerical operations.</li>
+  <li>Clone the repository to access the Python script.</li>
+  <li>Navigate to and open <code>SGBM_Stereo_DepthEstimation.py</code> in your preferred code editor.</li>
+  <li>Configure <code>Left_Image_Path</code> and <code>Right_Image_Path</code> within the script to point to your specific stereo image pair.</li>
+  <li>Adjust StereoSGBM and WLS filter parameters as needed to optimize disparity map quality for your images.</li>
+  <li>Execute the script to generate and optionally save or display the disparity map and depth map, exploring the 3D structure of the scene.</li>
+</ol>
+<p>This procedure enables you to harness the script for precise 3D scene reconstruction using stereo image pairs, showcasing the depth estimation capabilities of the StereoSGBM algorithm enhanced by WLS filtering.</p>
 
+<hr>
 
----------------------------------------------
-
-## How to use my code?
-The provided Python script utilizes the StereoSGBM algorithm to perform depth estimation. To use this code:
-
-1. Ensure you have OpenCV and NumPy installed in your Python environment.
-2. Clone my repository.
-3. Open `OpenCV_Stereo_SGBM_Depth_Estimation.py`
-4. Set the `Left_Image_Path` and `Right_Image_Path` variables to point to your stereo image pair.
-5. Run the script to `Save` or `Display` the generated maps.
-
+<!------ END ------>
+<p align="center">
+    <img src="readme_data/HKCV_quote.png" alt="quote" width="1500"/>
+</p>
 
 
 
