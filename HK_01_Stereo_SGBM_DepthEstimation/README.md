@@ -13,28 +13,45 @@
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
-▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸💠💠💠💠
+The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is a method used in computer vision for estimating the depth information from a pair of stereo images. This algorithm is an enhancement over the simpler block matching techniques (such as StereoBM) for stereo correspondence problems. The goal of StereoSGBM and similar algorithms is to reconstruct a 3D scene from two stereo images by finding the disparity (the difference in horizontal position) between corresponding points in the left and right images.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/posts/tvharikrishnahk_autonomousdriving-autonomousvehicles-mobilerobots-activity-7115334457124900866-LaV_?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/My Project Video-Kinematic Bicycle Model-blue" alt="Video" width="337" height="30"/>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7127317220291952640?utm_source=share&utm_medium=member_desktop">
+    <img src="https://img.shields.io/badge/My Project Video-Depth Estimation using StereoSGBM-blue" alt="Video" width="450" height="30"/>
   </a>
-</p>
-
-
-
-<br> <br>
+</p> <br> <br>
 
 <!------ WHY ------>
 <p align="center">
     <img src="readme_data/why.png" alt="What the project accomplishes" width="600"/>
 </p>
 
-<p align="center"><h1>🎯 Project Vision</h1></p>
+<h1 style="text-align: left;">🎯 Project Vision</h1>
 <p style="text-align: justify;">
-▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸💠💠💠💠
-</p> <br> <br>
+We use the StereoSGBM algorithm for depth estimation despite the availability of various methods in OpenCV due to its balance between accuracy and computational efficiency for semi-global matching. Unlike simpler algorithms like StereoBM, which only consider local information leading to less accurate depth maps, StereoSGBM incorporates semi-global constraints, significantly improving the quality of the depth estimation, especially in complex scenes with occlusions, repetitive patterns, and varying textures.
+</p>
+
+<h2 style="text-align: left;">💠 Advantages</h2>
+<p style="text-align: justify;">
+▸ <strong>Accuracy:</strong> StereoSGBM tends to produce more accurate and reliable depth information compared to simpler methods like StereoBM, especially in environments with repetitive patterns, occlusions, and varying textures. <br>
+▸ <strong>Robustness:</strong> It is more robust to noise and lighting variations due to its semi-global optimization approach. <br>
+▸ <strong>Flexibility:</strong> The algorithm offers parameters that can be tuned for different scenarios or requirements, such as the range of disparities, block size for matching, and several parameters controlling the semi-global matching process.
+</p>
+ 
+<br> <br> <br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!------ HOW ------>
 <p align="center">
@@ -45,6 +62,7 @@
 
 <p><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
+▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸💠💠💠💠
 The project is developed using the Robot Operating System (ROS), facilitating complex simulations and trajectory analysis. The mathematical foundation and kinematic behavior of the bicycle model are visualized through Matplotlib, with Python scripting at the core of the development. RViz provides real-time visualization of the robot model and trajectory, enhancing the analysis and debugging process.
 </p>
 <p>
