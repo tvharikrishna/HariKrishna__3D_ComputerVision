@@ -29,7 +29,7 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
 
 <h1 style="text-align: left;">🎯 Project Vision</h1>
 <p style="text-align: justify;">
-The project utilizes the StereoSGBM algorithm to enhance depth estimation, providing a significant improvement over traditional methods. By leveraging its accuracy and computational efficiency, the initiative aims to address challenges in 3D scene reconstruction, particularly in complex environments. This approach facilitates more reliable 3D modeling for applications in autonomous driving, robotics, and immersive experiences.
+The project utilizes the StereoSGBM algorithm to enhance depth estimation, providing a significant improvement over traditional methods. By leveraging its accuracy and computational efficiency, the initiative aims to address challenges in 3D scene reconstruction. This approach facilitates more reliable 3D modeling for applications in autonomous driving, robotics, and immersive experiences.
 </p>
 
 <h2 style="text-align: left;">💠 Advantages</h2>
@@ -54,7 +54,7 @@ The project utilizes the StereoSGBM algorithm to enhance depth estimation, provi
 <h1 align="ledt">🪓 Project Implementation</h1>
 <h2 style="text-align: left;">💠 Software Design & Tools </h2>
 <p style="text-align: justify;">
-The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to perform depth estimation from stereo images. This approach allows for the extraction of high-precision depth information, essential for 3D scene reconstruction. The implementation involves preprocessing the images, computing the disparity maps using StereoSGBM, and applying post-processing techniques like WLS filtering to enhance the quality of the depth maps. Python's flexibility and OpenCV's comprehensive library support the efficient development and testing of the depth estimation process.
+The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to perform depth estimation from stereo images. This approach allows for the extraction of high-precision depth information, essential for 3D scene reconstruction. The implementation involves preprocessing the images, computing the disparity maps using StereoSGBM, and applying post-processing techniques like WLS filtering to enhance the quality. Python's flexibility and OpenCV's comprehensive library support the efficient development and testing of the depth estimation process.
 </p>
 <p>
   <!-- Windows Badge -->
@@ -121,7 +121,7 @@ The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to
 
 <!------ HOW TO USE MY CODE ------>
 <h2 align="left">💠 How to use my code?</h2>
-<p>The provided Python script leverages the StereoSGBM algorithm for advanced depth estimation from stereo images. To effectively utilize this code, follow these steps:</p>
+<p>The provided Python script leverages the StereoSGBM algorithm for advanced, sophisticated depth estimation from stereo images. To effectively utilize this powerful code and explore its full potential, follow these outlined steps carefully.</p>
 <ol>
   <li>Ensure OpenCV and NumPy are installed in your Python environment for image processing and numerical operations.</li>
   <li>Clone the repository to access the Python script.</li>
