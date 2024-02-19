@@ -29,15 +29,17 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
 
 <h1 style="text-align: left;">🎯 Project Vision</h1>
 <p style="text-align: justify;">
-We use the StereoSGBM algorithm for depth estimation despite the availability of various methods in OpenCV due to its balance between accuracy and computational efficiency for semi-global matching. Unlike simpler algorithms like StereoBM, which only consider local information leading to less accurate depth maps, StereoSGBM incorporates semi-global constraints, significantly improving the quality of the depth estimation, especially in complex scenes with occlusions, repetitive patterns, and varying textures.
+The project utilizes the StereoSGBM algorithm to enhance depth estimation, providing a significant improvement over traditional methods. By leveraging its accuracy and computational efficiency, the initiative aims to address challenges in 3D scene reconstruction, particularly in complex environments. This approach facilitates more reliable 3D modeling for applications in autonomous driving, robotics, and immersive experiences.
 </p>
 
 <h2 style="text-align: left;">💠 Advantages</h2>
 <p style="text-align: justify;">
-▸ <strong>Accuracy:</strong> StereoSGBM tends to produce more accurate and reliable depth information compared to simpler methods like StereoBM, especially in environments with repetitive patterns, occlusions, and varying textures. <br>
-▸ <strong>Robustness:</strong> It is more robust to noise and lighting variations due to its semi-global optimization approach. <br>
-▸ <strong>Flexibility:</strong> The algorithm offers parameters that can be tuned for different scenarios or requirements, such as the range of disparities, block size for matching, and several parameters controlling the semi-global matching process.
+▸ <strong>Accuracy:</strong> StereoSGBM offers superior depth perception in complex settings, improving 3D reconstruction accuracy. <br><br>
+▸ <strong>Robustness:</strong> It's more resilient against environmental variations, ensuring stable performance across conditions. <br><br>
+▸ <strong>Flexibility:</strong> Adjustable parameters allow for tailored optimization, enhancing depth estimation for various applications. <br><br>
+▸ <strong>Comprehensive Coverage:</strong> The algorithm effectively handles occlusions and textureless areas, providing a cohesive depth map. <br><br>
 </p>
+
  
 <br> <br> <br>
 
