@@ -81,7 +81,7 @@ The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to
 <!------ Testing------>
 <h2 align="left">💠 Testing</h2>
 <p style="text-align: justify;">
-▸ The testing phase involves running the script on a set of stereo images to evaluate the accuracy of depth estimation across various scenes. This includes examining the quality of the disparity and depth maps for consistency and detail.<br>
+▸ The testing phase involves running the script on a set of stereo images to evaluate the accuracy of depth estimation across various scenes. This includes examining the quality of the disparity and depth maps for consistency and detail. <br> <br>
 ▸ Performance and robustness are assessed by applying the algorithm to images with varying levels of complexity and texture, ensuring that the depth estimation is reliable under different conditions.
 </p> <br>
 
