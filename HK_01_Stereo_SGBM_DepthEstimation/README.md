@@ -97,7 +97,7 @@ The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to
       <img src="https://img.shields.io/badge/-Right%20Image-%23D00000?style=for-the-badge" alt="Right Image Badge"/>
     </td>
   </tr>
-</table>
+</table> <br>
 
 <h2 align="left">💠 Output Image (generated_images)</h2>
 <table align="center">
@@ -117,7 +117,7 @@ The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to
       <img src="https://img.shields.io/badge/-Depth_Map_Color-%23000000?style=for-the-badge" alt="Depth Map Color Badge"/>
     </td>
   </tr>
-</table>
+</table> <br>
 
 <!------ HOW TO USE MY CODE ------>
 <h2 align="left">💠 How to use my code?</h2>
