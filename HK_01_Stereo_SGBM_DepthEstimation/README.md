@@ -6,6 +6,17 @@
     <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
 </p> <br> <br>
 
+
+
+
+
+
+
+
+
+
+
+
 <!------ WHAT ------>
 <p align="center">
     <img src="readme_data/what.png" alt="Why we chose this project" width="600"/>
@@ -21,6 +32,21 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
     <img src="https://img.shields.io/badge/My Project Video-Depth Estimation using StereoSGBM-blue" alt="Video" width="450" height="30"/>
   </a>
 </p> <br> <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!------ WHY ------>
 <p align="center">
@@ -40,7 +66,6 @@ The project utilizes the StereoSGBM algorithm to enhance depth estimation, provi
 ▸ <strong>Comprehensive Coverage:</strong> The algorithm effectively handles occlusions and textureless areas, providing a cohesive depth map. <br><br>
 </p>
 
- 
 <br> <br> <br>
 
 
@@ -60,125 +85,30 @@ The project utilizes the StereoSGBM algorithm to enhance depth estimation, provi
     <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
 </p>
 
-<p align="center"><h1>🪓Project Implementation</h1></p>
-
-<p><h2>💠 Software Design & Tools </h2></p>
-<p align='justify'>
-▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸💠💠💠💠
-The project is developed using the Robot Operating System (ROS), facilitating complex simulations and trajectory analysis. The mathematical foundation and kinematic behavior of the bicycle model are visualized through Matplotlib, with Python scripting at the core of the development. RViz provides real-time visualization of the robot model and trajectory, enhancing the analysis and debugging process.
+<h1 align="ledt">🪓 Project Implementation</h1>
+<h2 style="text-align: left;">💠 Software Design & Tools </h2>
+<p style="text-align: justify;">
+The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to perform depth estimation from stereo images. This approach allows for the extraction of high-precision depth information, essential for 3D scene reconstruction. The implementation involves preprocessing the images, computing the disparity maps using StereoSGBM, and applying post-processing techniques like WLS filtering to enhance the quality of the depth maps. Python's flexibility and OpenCV's comprehensive library support the efficient development and testing of the depth estimation process.
 </p>
 <p>
-  <!-- Ubuntu Badge -->
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
-  <!-- Linux Badge -->
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
+  <!-- Windows Badge -->
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" style="height: 25px;"/> &nbsp;
   <!-- VS Code Badge -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
-  <!-- ROS Badge -->
-  <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
   <!-- Python Badge -->
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
-  <!-- Matplotlib Badge -->
-  <img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Matplotlib" style="height: 25px;"/> &nbsp;
+  <img src="https://img.shields.io/badge/Python-FED843.svg?&style=flat-square&logo=python&logoColor=black" alt="Python" style="height: 25px;"/> &nbsp;
+  <!-- OpenCV Badge -->
+  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/>
 </p> <br>
 
 <!------ Deployment and Testing ------>
-<p align="center"><h2>💠 Deployment and Testing </h2></p>
-<p align='justify'>
-▸ The deployment of the Bicycle Kinematic Model was conducted within a simulated environment using ROS, ensuring a controlled testing. I deployed the model on a standard Ubuntu system, with simulations facilitated by Matplotlib for trajectory visualization. The process included continuous integration practices to check for code integrity and automated tests to validate kinematic equations against predetermined inputs.
-</p>
-
-<p align='justify'>
-▸ Testing consisted of a series of controlled simulations designed to challenge the model's capabilities in trajectory planning and response. Scenarios included navigating circular paths, sharp turns, and S-shaped trajectories, each requiring precise control of steering angles and velocity. The model's performance was gauged by its ability to maintain the intended path with minimal deviation and its response time to dynamic commands.
+<h2 align="left">💠 Deployment and Testing </h2>
+<p style="text-align: justify;">
+▸ Deployment is streamlined through a Python script, enabling easy integration with various operating systems including Windows. The script processes stereo image pairs to generate depth maps, which can be visualized or further analyzed. <br><br>
+▸ Testing involves running the script on a diverse set of stereo images to ensure accurate depth estimation across different scenarios. This includes images with varying levels of complexity, from simple objects to intricate scenes, verifying the algorithm's reliability and performance.
 </p> <br>
 
-<!------ Observation 1 ------>
-<p align="center">
-    <img src="readme_data/project_obs_1.png" alt="Why we chose this project" width="1500"/>
-</p> <br>
 
-<!------ Observation 2 ------>
-<p align="center">
-    <img src="readme_data/project_obs_2.png" alt="Why we chose this project" width="1500"/>
-</p> <br>
-
-<!------ Observation 3 ------>
-<p align="center">
-    <img src="readme_data/project_obs_3.png" alt="Why we chose this project" width="1500"/>
-</p> <br>
-
-<!------ Result and Analysis ------>
-<p align="center"><h2>💠 Results & Analysis </h2></p>
-
-<p align='justify'>
-▸ The Bicycle Kinematic Model's testing confirmed theoretical predictions with real-world behavior. Control sequences manipulated velocity and turning rate, with resulting positions and distances traveled quantifying model accuracy.
-</p>
-
-<p align='justify'>
-▸ A test with <code>control sequence [1, 0.1, 5]</code> showed the model navigating from the origin to <code>(-2.5586, 5.1742)</code>, covering <code>5.77 units</code>. This aligns with predictions from kinematic equations, illustrating the model's precision.
-</p>
-
-<p align='justify'>
-▸ Complex maneuvers like sharp turns and direction reversals were executed with high fidelity, as seen with sequences like <code>[1, 0.7, 7]</code> and <code>[-0.1, 0.8]</code>, validating the model's responsiveness to input variations.
-</p>
-
-<p align='justify'>
-▸ The practical validation of the kinematic equations has established their high accuracy and reliability. Each computational step, from velocity computation to positional adjustments, adhered to theoretical expectations with precision. This thorough analysis has not only fortified the Bicycle Kinematic Model's theoretical foundations but has also illuminated its practical efficacy.
-</p>
-
-<!------ Observation 4 ------>
-<p align="center">
-    <img src="readme_data/project_obs_4.png" alt="Why we chose this project" width="1500"/>
-</p> <hr>
-
-<!------ Smile More :) ------>
-<p align="center">
-    <img src="readme_data/HKAD_quote.png" alt="Alt text for your image" width="1500"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Stereo Depth Estimation using Semi-Global Block Matching (SGBM) Algorithm
-
-<p align="center">
-  <img src="project title.png" alt="StereoSGBM Example" width="1500"/>
-</p>
-
-
-The StereoSGBM algorithm, an advanced form of block matching, calculates disparities in stereo images more accurately and robustly than StereoBM, enabling the reconstruction of detailed 3D scenes from stereo pairs.
-
----------------------------------------------
-
-## What is Stereo SGBM?
-Stereo Semi-Global Block Matching (StereoSGBM) is an advanced algorithm for estimating the depth of a scene from a pair of stereo images. It calculates disparities between corresponding points to reconstruct the scene in 3D.
-
-<p align="center">
-  <img src="SGBM_BlockDiagram.png" alt="StereoSGBM Example" width="1500"/>
-</p>
-
----------------------------------------------
-
-## How it is better than Stereo BM?
-StereoSGBM provides more accurate and detailed depth estimation compared to Stereo Block Matching (StereoBM), especially in textured and complex scenes. It implements a more sophisticated block matching technique that takes into account global image features and smoothness constraints.
-
----------------------------------------------
 
 ## Input Image (data)
 
