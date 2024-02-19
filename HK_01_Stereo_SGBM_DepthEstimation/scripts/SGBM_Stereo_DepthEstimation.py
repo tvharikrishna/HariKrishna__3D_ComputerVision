@@ -1,17 +1,9 @@
 """
-Depth Estimation from Stereo Images
-
-This script performs depth estimation from a pair of stereo images using the StereoSGBM (Semi-Global Block Matching) algorithm.
-The process includes reading stereo image pairs, preprocessing them, computing disparity maps, and generating depth maps.
-
 Author: Venkata Harikrishna, Talapala
 GitHub: https://github.com/tvharikrishna
-
-Usage:
-Run this script as the main module to perform depth estimation. 
-Ensure that the image paths are set correctly to the stereo image pairs.
+License: GNU GPL v3.0 (use, modify, and share according to its terms)
+Project: Stereo Depth Estimation using Semi-Global Block Matching algorithm.
 """
-
 
 import cv2
 import numpy as np
@@ -143,9 +135,9 @@ class DepthEstimation():
 
         # Save images if required
         if save_images:
-            cv2.imwrite('generated_images/Disparity_Map.png', filteredImg)
-            cv2.imwrite('generated_images/Depth_Map.png', depth_map_display)
-            cv2.imwrite('generated_images/Depth_Map_Color.png', depth_map_display_jet_color)
+            cv2.imwrite('scripts/generated_images/Disparity_Map.png', filteredImg)
+            cv2.imwrite('scripts/generated_images/Depth_Map.png', depth_map_display)
+            cv2.imwrite('scripts/generated_images/Depth_Map_Color.png', depth_map_display_jet_color)
 
         # Display images if required
         if display_images:
@@ -188,9 +180,9 @@ if __name__ == "__main__":
     """
     
     # Paths to left and right images
-    Left_Image_Path = 'data/img1.png'
-    Right_Image_Path = 'data/img2.png'
+    Left_Image_Path = 'scripts\data\img1.png' 
+    Right_Image_Path = 'scripts\data\img2.png'
 
     # Create an instance of DepthEstimation and calculate depth
-    depth_est = DepthEstimation(Left_Image_Path='data/img1.png', Right_Image_Path='data/img2.png')
+    depth_est = DepthEstimation(Left_Image_Path='scripts\data\img1.png', Right_Image_Path='scripts\data\img2.png')
     depth_est.depth(save_images=True)
