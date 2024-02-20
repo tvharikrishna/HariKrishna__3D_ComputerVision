@@ -10,34 +10,37 @@
 
 # 🔻State-of-the-Art (SOTA) Computer Vision Techniques
 
-<div style="text-align: center;">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <th>Stereo Vision</th>
-      <th>Depth Estimation</th>
-      <th>Visual Odometry</th>
-      <th>Augmented Reality</th>
-    </tr>
-    <tr>
-      <td>3D Reconstruction</td>
-      <td>3D Flow Scene</td>
-      <td>Structure from Motion</td>
-      <td>3D SLAM</td>
-    </tr>
-    <tr>
-      <td>Vision Segmentation</td>
-      <td>Pose Estimation</td>
-      <td>3D Scene Understanding</td>
-      <td>Visual SLAM</td>
-    </tr>
-    <tr>
-      <td>Optical Flow Estimation</td>
-      <td>Multi-View Stereo</td>
-      <td>Stereo Camera Calibration</td>
-      <td>Point Clouds</td>
-    </tr>
-  </table>
+<!-- Stereo Vision Overview -->
+<p align="center"></p>
+<div align="center">
+<table>
+<tr>
+    <th>Stereo Vision</th>
+    <th>Depth Estimation</th>
+    <th>Visual Odometry</th>
+    <th>Augmented Reality</th>
+</tr>
+<tr>
+    <td>3D Reconstruction</td>
+    <td>3D Flow Scene</td>
+    <td>Structure from Motion</td>
+    <td>3D SLAM</td>
+</tr>
+<tr>
+    <td>Vision Segmentation</td>
+    <td>Pose Estimation</td>
+    <td>3D Scene Understanding</td>
+    <td>Visual SLAM</td>
+</tr>
+<tr>
+    <td>Optical Flow Estimation</td>
+    <td>Multi-View Stereo</td>
+    <td>Stereo Camera Calibration</td>
+    <td>Point Clouds</td>
+</tr>
+</table>
 </div>
+
 
 
 # 🔻Tools & Technologies
