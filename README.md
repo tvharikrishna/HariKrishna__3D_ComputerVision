@@ -6,7 +6,7 @@
 <p align='justify'>Computer Vision is a domain within computer science that empowers computers and systems to extract significant information from digital images, videos, and other visual inputs and to take action based on that information. It emulates human vision by recognizing patterns, objects, and settings, thereby converting visual content into actionable insights.</p>
 
 # 🔻Repository Details
-<p align='justify'>This repository meticulously documents my extensive journey through various projects related to Computer Vision/3D Computer Vision, showcasing a deep dive into the mechanics and applications of modern visual perception technologies. As stated below, my projects relate to the following topics, pushing the boundaries of what's possible with computer vision.</p>
+<p align='justify'>This repository meticulously documents my extensive journey through various projects related to Computer Vision/3D Computer Vision, showcasing a deep dive into the mechanics and applications of modern visual perception technologies. As stated below, my projects relate to the following topics.</p>
 
 # 🔻State-of-the-Art (SOTA) Computer Vision Techniques
 
