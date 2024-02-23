@@ -32,12 +32,11 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
 The project utilizes the StereoSGBM algorithm to enhance depth estimation, providing a significant improvement over traditional methods. By leveraging its accuracy and computational efficiency, the initiative aims to address challenges in 3D scene reconstruction. This approach facilitates more reliable 3D modeling for applications in autonomous driving, robotics, and immersive experiences.
 </p>
 
-<h2 style="text-align: left;">💠 Advantages</h2>
 <p style="text-align: justify;">
-▸ <strong>Accuracy:</strong> StereoSGBM offers superior depth perception in complex settings, improving 3D reconstruction accuracy. <br><br>
-▸ <strong>Robustness:</strong> It's more resilient against environmental variations, ensuring stable performance across conditions. <br><br>
-▸ <strong>Flexibility:</strong> Adjustable parameters allow for tailored optimization, enhancing depth estimation for various applications. <br><br>
-▸ <strong>Comprehensive Coverage:</strong> The algorithm effectively handles occlusions and textureless areas, providing a cohesive depth map. <br><br>
+▸ <code>Accuracy:</code> StereoSGBM offers superior depth perception in complex settings, improving 3D reconstruction accuracy. <br><br>
+▸ <code>Robustness:</code> It's more resilient against environmental variations, ensuring stable performance across conditions. <br><br>
+▸ <code>Flexibility:</code> Adjustable parameters allow for tailored optimization, enhancing depth estimation for various applications. <br><br>
+▸ <code>Comprehensive Coverage:</code> The algorithm effectively handles occlusions and textureless areas, providing a cohesive depth map. <br><br>
 </p>
 
 <p align="center">
