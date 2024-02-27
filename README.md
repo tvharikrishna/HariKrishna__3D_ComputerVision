@@ -3,18 +3,44 @@
 <p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
 
 # 🔻What is Computer Vision
-<p align='justify'>Computer Vision is a domain within computer science that empowers computers and systems to extract significant information from digital images, videos, and other visual inputs and to take action based on that information. It emulates human vision by recognizing patterns, objects, and settings, thereby converting visual content into actionable insights.</p>
+<p align='justify'>Computer Vision is a domain within computer science that empowers computers and systems to extract significant information from digital images, videos, and other visual inputs and to take action based on that information. It emulates human vision by recognizing patterns, objects etc.</p>
 
 # 🔻Repository Details
-<p align='justify'>This repository meticulously documents my extensive journey through various projects related to Computer Vision/3D Computer Vision, showcasing a deep dive into the mechanics and applications of modern visual perception technologies. These projects illuminate the cutting-edge advancements in how machines perceive and interpret the three-dimensional world around us. As stated below, my projects relate to the following topics, pushing the boundaries of what's possible with computer vision.</p>
+<p align='justify'>This repository meticulously documents my extensive journey through various projects related to Computer Vision, showcasing a deep dive into the mechanics and applications of modern visual perception technologies. As stated below, my projects relate to the following topics.</p>
 
 # 🔻State-of-the-Art (SOTA) Computer Vision Techniques
 
-|    Stereo Vision     |   Depth Estimation   |   Visual Odometry   |  Augmented Reality  |
-|----------------------|----------------------|---------------------|---------------------|
-| 3D Reconstruction         | 3D Flow Scene      | Structure from Motion    | 3D SLAM         |
-| Vision Segmentation    | Pose Estimation | 3D Scene Understanding | Visual SLAM        |
-| Optical Flow Estimation         | Multi-View Stereo  | Stereo Camera Calibration  | Point Clouds      |
+<!-- Stereo Vision Overview -->
+<p align="center"></p>
+<div align="center">
+<table>
+<tr>
+    <th>Stereo Vision</th>
+    <th>Depth Estimation</th>
+    <th>Visual Odometry</th>
+    <th>Augmented Reality</th>
+</tr>
+<tr>
+    <td>3D Reconstruction</td>
+    <td>3D Flow Scene</td>
+    <td>Structure from Motion</td>
+    <td>3D SLAM</td>
+</tr>
+<tr>
+    <td>Vision Segmentation</td>
+    <td>Pose Estimation</td>
+    <td>3D Scene Understanding</td>
+    <td>Visual SLAM</td>
+</tr>
+<tr>
+    <td>Optical Flow Estimation</td>
+    <td>Multi-View Stereo</td>
+    <td>Stereo Camera Calibration</td>
+    <td>Point Clouds</td>
+</tr>
+</table>
+</div>
+
 
 
 # 🔻Tools & Technologies
