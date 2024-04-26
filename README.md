@@ -3,7 +3,7 @@
 <p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
 
 <p align="center">
-    <img src="readme_data/3dcv_welcome.png" alt="3dcv_welcome" width="1500"/>
+    <img src="readme_data/cv_welcome.png" alt="3dcv_welcome" width="1500"/>
 </p>
 
 # 🔻Repository Details
