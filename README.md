@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>HK_CV__</strong></td>
+<td align="center"><strong>HKCV_xx__</strong></td>
 <td align="center">2D/3D Computer Vision Projects</td>
 </tr>    
 </tbody>

@@ -3,7 +3,7 @@
 
 <!------ PROJECT TITLE ------>
 <p align="center">
-    <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
+    <img src="readme_data/project_title.png" alt="Why we chose this project" width="1500"/>
 </p> <br> <br>
 
 <!------ WHAT ------>
@@ -20,7 +20,7 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7127317220291952640?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/My Project Video-Depth Estimation using StereoSGBM-blue" alt="Video" width="450" height="30"/>
   </a>
-</p> <br> <br>
+</p> <hr> <br> <br>
 
 <!------ WHY ------>
 <p align="center">
@@ -41,9 +41,7 @@ The project utilizes the StereoSGBM algorithm to enhance depth estimation, provi
 
 <p align="center">
     <img src="readme_data/blockdiagram.png" alt="Why we chose this project" width="1500"/>
-</p>
-
-<br> <br> <br>
+</p> <hr> <br> <br>
 
 <!------ HOW ------>
 <p align="center">
@@ -129,15 +127,10 @@ The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to
   <li>Adjust StereoSGBM and WLS filter parameters as needed to optimize disparity map quality for your images.</li>
   <li>Execute the script to generate and optionally save or display the disparity map and depth map, exploring the 3D structure of the scene.</li>
 </ol>
-<p>This procedure enables you to harness the script for precise 3D scene reconstruction using stereo image pairs, showcasing the depth estimation capabilities of the StereoSGBM algorithm enhanced by WLS filtering.</p>
 
-<hr>
+<p>This procedure enables you to harness the script for precise 3D scene reconstruction using stereo image pairs, showcasing the depth estimation capabilities of the StereoSGBM algorithm enhanced by WLS filtering.</p> <hr> <br> <br>
 
 <!------ END ------>
 <p align="center">
     <img src="readme_data/HKCV_quote.png" alt="quote" width="1500"/>
 </p>
-
-
-
-
