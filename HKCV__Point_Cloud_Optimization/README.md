@@ -52,7 +52,7 @@ Utilizing Python and a suite of scientific libraries including Numpy, SciPy, and
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Open3D-4B8BBE.svg?&style=flat-square&logo=python&logoColor=white" alt="Open3D" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Mesh-000000.svg?&style=flat-square&logo=blender&logoColor=white" alt="Mesh" style="height: 30px;"/>
-</p> <br>
+</p> <br> <br> 
 
 <!------ Technical Terms ------>
 <p align="center"><h2>💠 Technical Terms </h2></p>
@@ -69,7 +69,7 @@ The k-means algorithm is a popular clustering method used in data analysis and m
 <h3>▸ What is k-d tree algorithm?</h3>
 <p align='justify'>
 A k-d tree (short for k-dimensional tree) is a space-partitioning data structure for organizing points in a k-dimensional space. k-d trees are useful in several applications, including range searches and nearest neighbor searches. In point cloud processing, k-d trees facilitate efficient querying and indexing, which is critical for the performance improvements in tasks like 3D scene reconstruction.
-</p>
+</p> <br> 
 
 <!------ Deployment and Testing ------>
 <p align="center"><h2>💠 Deployment and Testing </h2></p>
@@ -121,7 +121,7 @@ A k-d tree (short for k-dimensional tree) is a space-partitioning data structure
 <!------ Result and Analysis ------>
 <p align="center"><h2>💠 Results & Analysis </h2></p>
 <p align='justify'>
-▸ The images below showcase the effectiveness of K-Means clustering and KD-Tree algorithms on point cloud data. The first visualization illustrates the segmentation of downsampled point cloud data into distinct clusters using the K-Means algorithm, which took approximately 0.998 seconds. This rapid clustering demonstrates the algorithm's efficiency in handling large datasets. The second visualization depicts the KD-Tree downsampling, which effectively reduced data complexity and took about 21.68 seconds. These methods significantly optimize the processing time and enhance the visualization of point cloud data, proving essential for accurate and efficient analysis in various applications.
+The images below showcase the effectiveness of K-Means clustering and KD-Tree algorithms on point cloud data. The first visualization illustrates the segmentation of downsampled point cloud data into distinct clusters using the K-Means algorithm, which took approximately 0.998 seconds. This rapid clustering demonstrates the algorithm's efficiency in handling large datasets. The second visualization depicts the KD-Tree downsampling, which effectively reduced data complexity and took about 21.68 seconds. These methods significantly optimize the processing time and enhance the visualization of point cloud data, proving essential for accurate and efficient analysis in various applications.
 </p>
 
 <p align="center">
@@ -130,11 +130,9 @@ A k-d tree (short for k-dimensional tree) is a space-partitioning data structure
 
 <p align="center">
     <img src="readme_data/project_observation13.png" alt="Deployment & Testing :Image12" width="1500"/>
-</p> <br>
-
-<hr> <br> <br> 
+</p> <hr> <br> <br> 
 
 <!------ End Image ------>
 <p align="center">
-    <img src="HKCV_endquote.png" alt="End Quote :IMAGE" width="1500"/>
+    <img src="HKCV_quote.png" alt="End Quote :IMAGE" width="1500"/>
 </p>
