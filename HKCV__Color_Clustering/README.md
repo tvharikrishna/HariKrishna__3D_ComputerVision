@@ -18,7 +18,7 @@ The project explores the technique of color segmentation in image processing and
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=4IZ0Rt67UUU">
-    <img src="https://img.shields.io/badge/My Project Video-Color Clustering-blue" alt="Video" width="337" height="30"/>
+    <img src="https://img.shields.io/badge/My Project Video-Color Clustering-blue" alt="Video" width="400" height="40"/>
   </a>
 </p> <hr> <br> <br> 
 
