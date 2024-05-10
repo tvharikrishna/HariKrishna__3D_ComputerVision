@@ -134,5 +134,5 @@ The images below showcase the effectiveness of K-Means clustering and KD-Tree al
 
 <!------ End Image ------>
 <p align="center">
-    <img src="HKCV_quote.png" alt="End Quote :IMAGE" width="1500"/>
+    <img src="readme_data/HKCV_quote.png" alt="End Quote :IMAGE" width="1500"/>
 </p>
