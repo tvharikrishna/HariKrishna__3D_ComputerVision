@@ -3,7 +3,7 @@
 
 <!------ PROJECT TITLE ------>
 <p align="center">
-    <img src="readme_data/title.png" alt="title" width="1500"/>
+    <img src="readme_data/project_title.png" alt="title" width="1500"/>
 </p> <br> <br>
 
 <!------ WHAT ------>
@@ -13,12 +13,12 @@
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
-Implementation of the Proximal Policy Optimization (PPO) algorithm for a ball balancing slab in reinforcement learning. This technique optimizes the control policy to maintain the ball's position on the slab, adapting to variations in the environment. The goal is to develop a robust and adaptable system that can effectively balance the ball under dynamic conditions, enhancing stability and response accuracy.
+WRITE HERE
 </p>
 
 <p align="center">
-  <a href="ADD_LINK_HERE">
-    <img src="https://img.shields.io/badge/My Project Video-Ball Balancing Slab-blue" alt="Video" width="337" height="30"/>
+  <a href="https://www.youtube.com/watch?v=zDZXDbt0lpU">
+    <img src="https://img.shields.io/badge/My Project Video-Point Cloud Optimization-blue" alt="Video" width="420" height="40"/>
   </a>
 </p> <hr> <br> <br> 
 
@@ -29,7 +29,7 @@ Implementation of the Proximal Policy Optimization (PPO) algorithm for a ball ba
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
 <p style="text-align: justify;">
-The project vision for the ball balancing slab using Proximal Policy Optimization (PPO) algorithms in reinforcement learning is to develop advanced control systems that excel in dynamic and unpredictable environments. The aim is to leverage the adaptability and efficiency of PPO algorithms to create a model that balances the ball on the slab with high precision and quickly adjusts to changes, such as external disturbances or varying surface inclinations.
+WRITE HERE
 </p> <hr> <br> <br> 
 
 <!------ HOW ------>
@@ -40,14 +40,18 @@ The project vision for the ball balancing slab using Proximal Policy Optimizatio
 <p align="center"><h1>🪓Project Implementation</h1></p>
 <p><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
-The PPO Ball Balancing project utilizes Unity and C# for game scripting and Python with the ML-Agents package for backend computations. This integration enables the application of the Proximal Policy Optimization (PPO) algorithm, ensuring efficient learning and performance optimization in real-time simulations.
+WRITE HERE
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6.svg?&style=flat-square&logo=windows&logoColor=white" alt="Windows" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/C%23-004482.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="C#" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=white" alt="Unity" style="height: 30px;"/>
+<img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 25px;"/> &nbsp; 
+<img src="https://img.shields.io/badge/SciPy-654FF0?style=flat-square&logo=SciPy&logoColor=white" alt="SciPy" style="height: 25px;"/> &nbsp; 
+<img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Open3D-4B8BBE.svg?&style=flat-square&logo=python&logoColor=white" alt="Open3D" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Mesh-000000.svg?&style=flat-square&logo=blender&logoColor=white" alt="Mesh" style="height: 25px;"/>
 </p> <br>
 
 <!------ Deployment and Testing ------>
