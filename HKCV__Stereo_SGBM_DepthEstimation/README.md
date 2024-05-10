@@ -17,7 +17,7 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7127317220291952640?utm_source=share&utm_medium=member_desktop">
+  <a href="https://www.youtube.com/watch?v=9Vck05bHM4c">
     <img src="https://img.shields.io/badge/My Project Video-Depth Estimation using StereoSGBM-blue" alt="Video" width="450" height="30"/>
   </a>
 </p> <hr> <br> <br>
