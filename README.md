@@ -12,10 +12,7 @@
 # 🔻What is Computer Vision
 <p align='justify'>Computer Vision is a domain within computer science that empowers computers and systems to extract significant information from digital images, videos, and other visual inputs and to take action based on that information. It emulates human vision by recognizing patterns, objects etc.</p>
 
-
-
 # 🔻State-of-the-Art (SOTA) Computer Vision Techniques
-
 <!-- Stereo Vision Overview -->
 <p align="center"></p>
 <div align="center">
