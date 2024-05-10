@@ -75,47 +75,47 @@ A k-d tree (short for k-dimensional tree) is a space-partitioning data structure
 <p align="center"><h2>💠 Deployment and Testing </h2></p>
 
 <p align="center">
-    <img src="readme_data/project_observation1" alt="Deployment & Testing :Image1" width="1500"/>
+    <img src="readme_data/project_observation1.png" alt="Deployment & Testing :Image1" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation2" alt="Deployment & Testing :Image2" width="1500"/>
+    <img src="readme_data/project_observation2.png" alt="Deployment & Testing :Image2" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation3" alt="Deployment & Testing :Image3" width="1500"/>
+    <img src="readme_data/project_observation3.png" alt="Deployment & Testing :Image3" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation4" alt="Deployment & Testing :Image4" width="1500"/>
+    <img src="readme_data/project_observation4.png" alt="Deployment & Testing :Image4" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation5" alt="Deployment & Testing :Image5" width="1500"/>
+    <img src="readme_data/project_observation5.png" alt="Deployment & Testing :Image5" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation6" alt="Deployment & Testing :Image6" width="1500"/>
+    <img src="readme_data/project_observation6.png" alt="Deployment & Testing :Image6" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation7" alt="Deployment & Testing :Image7" width="1500"/>
+    <img src="readme_data/project_observation7.png" alt="Deployment & Testing :Image7" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation8" alt="Deployment & Testing :Image8" width="1500"/>
+    <img src="readme_data/project_observation8.png" alt="Deployment & Testing :Image8" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation9" alt="Deployment & Testing :Image9" width="1500"/>
+    <img src="readme_data/project_observation9.png" alt="Deployment & Testing :Image9" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation10" alt="Deployment & Testing :Image10" width="1500"/>
+    <img src="readme_data/project_observation10.png" alt="Deployment & Testing :Image10" width="1500"/>
 </p> <br>
 
 <p align="center">
-    <img src="readme_data/project_observation11" alt="Deployment & Testing :Image11" width="1500"/>
+    <img src="readme_data/project_observation11.png" alt="Deployment & Testing :Image11" width="1500"/>
 </p> <br>
 
 <!------ Result and Analysis ------>
