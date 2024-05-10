@@ -17,8 +17,8 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7127317220291952640?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/My Project Video-Depth Estimation using StereoSGBM-blue" alt="Video" width="450" height="30"/>
+  <a href="https://www.youtube.com/watch?v=9Vck05bHM4c">
+    <img src="https://img.shields.io/badge/My Project Video-SGBM Stereo Depth Estimation-blue" alt="Video" width="450" height="40"/>
   </a>
 </p> <hr> <br> <br>
 
@@ -29,15 +29,8 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
 
 <h1 style="text-align: left;">🎯 Project Vision</h1>
 <p style="text-align: justify;">
-The project utilizes the StereoSGBM algorithm to enhance depth estimation, providing a significant improvement over traditional methods. By leveraging its accuracy and computational efficiency, the initiative aims to address challenges in 3D scene reconstruction. This approach facilitates more reliable 3D modeling for applications in autonomous driving, robotics, and immersive experiences.
-</p>
-
-<p style="text-align: justify;">
-▸ <code>Accuracy:</code> StereoSGBM offers superior depth perception in complex settings, improving 3D reconstruction accuracy. <br><br>
-▸ <code>Robustness:</code> It's more resilient against environmental variations, ensuring stable performance across conditions. <br><br>
-▸ <code>Flexibility:</code> Adjustable parameters allow for tailored optimization, enhancing depth estimation for various applications. <br><br>
-▸ <code>Comprehensive Coverage:</code> The algorithm effectively handles occlusions and textureless areas, providing a cohesive depth map. <br><br>
-</p>
+The project utilizes the StereoSGBM algorithm to enhance depth estimation, providing significant improvements over traditional methods. By leveraging its accuracy and computational efficiency, the initiative aims to address challenges in 3D scene reconstruction. StereoSGBM offers superior depth perception in complex settings, improving 3D reconstruction accuracy. It is more resilient against environmental variations, ensuring stable performance across conditions. Its adjustable parameters allow for tailored optimization, enhancing depth estimation for various applications. Additionally, the algorithm effectively handles occlusions and textureless areas, providing a cohesive depth map for reliable 3D modeling in autonomous driving, robotics, and immersive experiences.
+</p> <br>
 
 <p align="center">
     <img src="readme_data/blockdiagram.png" alt="Why we chose this project" width="1500"/>
@@ -65,7 +58,7 @@ The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to
 </p> <br>
 
 <!------ Deployment------>
-<h2 align="left">💠 Deployment</h2>
+<h2 align="left">💠 Deployment & Testing</h2>
 <p style="text-align: justify;">
 ▸ Initialization of camera parameters, such as focal length and baseline, is crucial for achieving accurate depth estimation, setting the foundation for precise 3D scene reconstruction.<br><br>
 ▸ Configuration of StereoSGBM and WLS filter parameters is tailored to enhance disparity computation, with the WLS filter significantly improving the quality by reducing noise and preserving edge details, thus ensuring a more accurate depth perception.<br><br>
@@ -76,7 +69,7 @@ The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to
 </p> <br>
 
 <!------ Testing------>
-<h2 align="left">💠 Testing</h2>
+<h2 align="left">💠 Result and Analysis </h2>
 <p style="text-align: justify;">
 ▸ The testing phase involves running the script on a set of stereo images to evaluate the accuracy of depth estimation across various scenes. This includes examining the quality of the disparity and depth maps for consistency and detail. <br> <br>
 ▸ Performance and robustness are assessed by applying the algorithm to images with varying levels of complexity and texture, ensuring that the depth estimation is reliable under different conditions.

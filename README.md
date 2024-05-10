@@ -9,28 +9,10 @@
 # 🔻Repository Details
 <p align='justify'>This repository meticulously documents my extensive journey through various projects related to Computer Vision, showcasing a deep dive into the mechanics and applications of modern visual perception technologies. As stated below, my projects relate to the following topics.</p><br>
 
-<table align="center">
-<thead>
-<tr>
-<th align="center">Naming Prefix</th>
-<th align="center">Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>HKCV_xx__</strong></td>
-<td align="center">2D/3D Computer Vision Projects</td>
-</tr>    
-</tbody>
-</table><br>
-
 # 🔻What is Computer Vision
 <p align='justify'>Computer Vision is a domain within computer science that empowers computers and systems to extract significant information from digital images, videos, and other visual inputs and to take action based on that information. It emulates human vision by recognizing patterns, objects etc.</p>
 
-
-
 # 🔻State-of-the-Art (SOTA) Computer Vision Techniques
-
 <!-- Stereo Vision Overview -->
 <p align="center"></p>
 <div align="center">
