@@ -55,7 +55,7 @@ Utilizing Python and a suite of scientific libraries including Numpy, SciPy, and
 </p> <br> <br> 
 
 <!------ Technical Terms ------>
-<p align="center"><h2>💠 Technical Terms </h2></p>
+<p align="center"><h2>💠 Project Technical Terms & Concept</h2></p>
 <h3>▸ What are point clouds? </h3>
 <p align='justify'>
 Point clouds are sets of data points in space, most often produced by 3D scanners. These points represent the external surface of an object. As a fundamental component in the field of computer vision and remote sensing, point clouds are used to create 3D models and perform spatial analysis, crucial in numerous applications such as advanced robotics, conservation, architecture, and forensics.
