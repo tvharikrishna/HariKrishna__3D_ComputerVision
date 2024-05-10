@@ -50,7 +50,7 @@ The Color Clustering project employs Python, OpenCV, and other image processing 
 </p> <br>
 
 <!------ Deployment and Testing ------>
-<p align="center"><h2>💠 Technical Terms </h2></p>
+<p align="center"><h2>💠 Project Technical Terms & Concept</h2></p>
 <p align='justify'>
 
 
