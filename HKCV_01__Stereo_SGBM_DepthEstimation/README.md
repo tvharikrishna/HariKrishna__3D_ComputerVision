@@ -3,7 +3,7 @@
 
 <!------ PROJECT TITLE ------>
 <p align="center">
-    <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
+    <img src="readme_data/project_title.png" alt="Why we chose this project" width="1500"/>
 </p> <br> <br>
 
 <!------ WHAT ------>
