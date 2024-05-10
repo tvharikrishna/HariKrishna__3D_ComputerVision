@@ -30,11 +30,9 @@ The <strong>Stereo Semi-Global Block Matching (StereoSGBM)</strong> algorithm is
 <h1 style="text-align: left;">🎯 Project Vision</h1>
 <p style="text-align: justify;">
 The project utilizes the StereoSGBM algorithm to enhance depth estimation, providing significant improvements over traditional methods. By leveraging its accuracy and computational efficiency, the initiative aims to address challenges in 3D scene reconstruction. StereoSGBM offers superior depth perception in complex settings, improving 3D reconstruction accuracy. It is more resilient against environmental variations, ensuring stable performance across conditions. Its adjustable parameters allow for tailored optimization, enhancing depth estimation for various applications. Additionally, the algorithm effectively handles occlusions and textureless areas, providing a cohesive depth map for reliable 3D modeling in autonomous driving, robotics, and immersive experiences.
-</p> <br>
+</p> 
 
-<p align="center">
-    <img src="readme_data/blockdiagram.png" alt="Why we chose this project" width="1500"/>
-</p> <hr> <br> <br>
+<hr> <br> <br>
 
 <!------ HOW ------>
 <p align="center">
@@ -47,18 +45,34 @@ The project utilizes the StereoSGBM algorithm to enhance depth estimation, provi
 The project is built on OpenCV for Python, utilizing the StereoSGBM algorithm to perform depth estimation from stereo images. This approach allows for the extraction of high-precision depth information, essential for 3D scene reconstruction. The implementation involves preprocessing the images, computing the disparity maps using StereoSGBM, and applying post-processing techniques like WLS filtering to enhance the quality. Python's flexibility and OpenCV's comprehensive library support the efficient development and testing of the depth estimation process.
 </p>
 <p>
-  <!-- Windows Badge -->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" style="height: 25px;"/> &nbsp;
-  <!-- VS Code Badge -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
-  <!-- Python Badge -->
-  <img src="https://img.shields.io/badge/Python-FED843.svg?&style=flat-square&logo=python&logoColor=black" alt="Python" style="height: 25px;"/> &nbsp;
-  <!-- OpenCV Badge -->
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-FED843.svg?&style=flat-square&logo=python&logoColor=black" alt="Python" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/OpenCV-%23white.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/>
 </p> <br>
+
+<!------ Technical Terms ------>
+<p align="center"><h2>💠 Project Technical Terms & Concepts </h2></p>
+<h3>▸ What is Depth in Computer Vision?</h3>
+<p align='justify'>
+In computer vision, depth refers to the distance between any point in a scene and the camera at a given position. Depth information is crucial for understanding the three-dimensional structure of the environment. It allows computer vision systems to not only detect objects but also to ascertain their size, shape, and spatial relationships with other objects in the scene.
+</p> <br> 
+
+<h3>▸ What is Stereo Vision?</h3>
+<p align='justify'>
+Stereo vision is a form of depth perception which, in computer vision, involves capturing two slightly offset photographs to create 3D images. The process mimics human binocular vision, where the slight differences in images seen by each eye provide the perception of depth. This technique is used extensively in applications ranging from robotic navigation to augmented reality, providing a richer perception of the environment.
+</p> <br> 
+
+<h3>▸ What is Epipolar Geometry?</h3>
+<p align='justify'>
+Epipolar geometry is a fundamental concept in stereo vision involving the geometric relationship between two views captured by stereo cameras. It describes the way that points from one camera view relate to lines (epilines) in the other view, constrained to lie along corresponding epilines. Understanding epipolar geometry is crucial for algorithms like StereoSGBM, as it helps to simplify the problem of finding corresponding points between the two views by reducing the search space to one dimension along these lines.
+</p> <br> 
 
 <!------ Deployment------>
 <h2 align="left">💠 Deployment & Testing</h2>
+<p align="center">
+    <img src="readme_data/blockdiagram.png" alt="Why we chose this project" width="1500"/>
+</p> 
 <p style="text-align: justify;">
 ▸ Initialization of camera parameters, such as focal length and baseline, is crucial for achieving accurate depth estimation, setting the foundation for precise 3D scene reconstruction.<br><br>
 ▸ Configuration of StereoSGBM and WLS filter parameters is tailored to enhance disparity computation, with the WLS filter significantly improving the quality by reducing noise and preserving edge details, thus ensuring a more accurate depth perception.<br><br>
