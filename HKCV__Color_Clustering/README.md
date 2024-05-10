@@ -67,7 +67,7 @@ An RGB image is a digital image that represents color using the Red-Green-Blue (
     <img src="readme_data/original_Image.png" alt="Original RGB Image" width="300"/>
 </p> <br>
 
-<h3>▸ What is HSV?</h3>
+<h3>▸ What is HSV Scale?</h3>
 <p align='justify'>
 The Hue-Saturation-Value (HSV) color model is used in image processing to represent colors more intuitively. **Hue** defines the color type (e.g., red, blue), **Saturation** measures color intensity, and **Value** indicates brightness. This model separates chromatic content (hue and saturation) from intensity (value), making it suitable for tasks like color segmentation, where isolating hues is critical.
 </p> <br>
