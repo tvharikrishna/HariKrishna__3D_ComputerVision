@@ -1,10 +1,12 @@
-<!-- README: HariKrishna_ComputerVision-->
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
-
 <p align="center">
     <img src="readme_data/cv_welcome.png" alt="3dcv_welcome" width="1500"/>
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsYwhfBp98FzG81E9kP0gAke">
+    <img src="https://img.shields.io/badge/Full Projects Playlist-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="220" height="30"/>
+  </a>
+</p> <br> <br>
 
 # 🔻Repository Details
 <p align='justify'>This repository meticulously documents my extensive journey through various projects related to Computer Vision, showcasing a deep dive into the mechanics and applications of modern visual perception technologies. As stated below, my projects relate to the following topics.</p><br>
