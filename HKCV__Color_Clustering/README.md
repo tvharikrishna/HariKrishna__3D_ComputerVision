@@ -1,6 +1,3 @@
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">5 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
-
 <!------ PROJECT TITLE ------>
 <p align="center">
     <img src="readme_data/project_title.png" alt="title" width="1500"/>
@@ -18,7 +15,7 @@ The project explores the technique of color segmentation in image processing and
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=4IZ0Rt67UUU">
-    <img src="https://img.shields.io/badge/My Project Video-Color Clustering-blue" alt="Video" width="400" height="40"/>
+    <img src="https://img.shields.io/badge/My Project Video-Color Clustering-blue" alt="Video" width="380" height="38"/>
   </a>
 </p> <hr> <br> <br> 
 
